@@ -1,5 +1,5 @@
 module github.com/hujun-open/shouchantypes/v2
-
+                             
 go 1.20
 
 require github.com/hujun-open/shouchan/v2 v2.0.0
