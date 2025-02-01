@@ -1,4 +1,4 @@
-package shouchan
+package shouchantypes
 
 import (
 	"fmt"
@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hujun-open/shouchan"
+	"github.com/hujun-open/shouchan/v2"
 )
 
 func init() {
