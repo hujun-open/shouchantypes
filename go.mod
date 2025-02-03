@@ -2,7 +2,7 @@ module github.com/hujun-open/shouchantypes/v2
 
 go 1.20
 
-require github.com/hujun-open/shouchan/v2 v2.0.1
+require github.com/hujun-open/shouchan/v2 v2.0.2
 
 require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.6 // indirect
